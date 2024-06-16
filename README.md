@@ -3,4 +3,3 @@
 ## Savando alterações no GIt
 * comando git push
 * comando git pull
-* comando git fetch
